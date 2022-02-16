@@ -9,6 +9,7 @@ class MAN:
     def getWeight(self):
         return self.weight
 
+# Simple comment
 
 x = MAN()
 y = MAN()

@@ -1,0 +1,24 @@
+linux - it is a type of operating system in which terminal which uses the path is the main thing it is an
+ advanced os and free and ubuntu is a famous type of linux.
+windows- it is a system in which user needs to do manually things like copy paste and all the other its versions
+are not free
+github - it is the platform where all the codes can be comitted and pushed. The code can be cloned into any system
+after that.
+
+
+git commands:
+ls - which shows the list of files in the given directory
+cd - changes the directory
+cd .. - which goes back a step in the directory
+clone - to download everything into the local computer
+stash - deleting the changes that are done in the previos file
+status - to check the current status of the file if there are any additions or deletions in the code
+nano - which opens the thing to make any modifications and to save 
+diff - shows the difference between the existing file and changed new file
+add <file> - adds the file that is to be comitted in the modification stage
+commit-s - vi terminal is opened for the description writing(i is typed at the beginning to insert and
+wq is typed for write and quit)here the code is comitted in the local system
+log - shows all the staged files 
+push - publishes the local commits to the github
+
+
